@@ -76,7 +76,7 @@ Após a localização do primeiro quadrado, é necessário encontrar as outras d
 
 ### pinta
 
-A criação dessa função se baseia na função *pintaAzul* vista em aula e disponível na apostila (http://www.lps.usp.br/hae/apostila/compcon.pdf). 
+A criação dessa função se baseia na função *pintaAzul* vista em aula e disponível na apostila: http://www.lps.usp.br/hae/apostila/compcon.pdf
 
 A lógica dessa função é utilizar fila para processar componentes conexos a um ponto escolhido. Nesse caso, o ponto escolhido foi o de maior valor e o procedimento realizado foi de pintar de preto o próprio ponto e uma região próxima.
 
