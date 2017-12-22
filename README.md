@@ -10,13 +10,6 @@ Dado esse material inicial, o objetivo desse trabalho consistiu em fazer o progr
 Nesse programa foi utilizada a biblioteca cekeikon.h para que fosse possível utilizar funções do Cekeikon e do OpenCV. 	Para fazer download dessa biblioteca é necessário acessar: http://www.lps.usp.br/hae/software/cekeikon5.html
 
 
-## Direitos autorais
-
-O trabalho aqui publicado fez uso da biblioteca Cekeikon5 para processamento de imagens e visão computacional.
-
-Mais informações sobre essa biblioteca pode ser encontrado em: http://www.lps.usp.br/~hae/software
-
-
 ## Operação
 
 Para executar o programa, o usuário deve acessar pelo prompt de comando a pasta em que está localizado o arquivo **QRCode.cpp**. Caso ainda não tenha compilado, o usuário deve compilar digitando no prompt de comando o seguinte comando: 
@@ -103,6 +96,13 @@ Com as 3 marcas quadradas localizadas, o problema proposto é então solucionado
 <p align="center">
   <img src="https://github.com/matheusrmorgado/QRCode/blob/master/lo/lo00.png">
 </p>
+
+
+## Direitos autorais
+
+O trabalho aqui publicado fez uso da biblioteca Cekeikon5 para processamento de imagens e visão computacional.
+
+Mais informações sobre essa biblioteca pode ser encontrado em: http://www.lps.usp.br/~hae/software
 
 
 ## Referências
