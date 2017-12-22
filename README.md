@@ -1,5 +1,6 @@
 # Localizador de QRCode
 
+
 ## Descrição do problema
 
 Para a realização do exercício programa, foram disponibilizadas 16 imagens onde em cada uma aparece um único QR-code. Nessas imagens, os QR-codes aparecem aproximadamente em pé, com pequenas distorções em perspectiva.
@@ -7,6 +8,7 @@ Para a realização do exercício programa, foram disponibilizadas 16 imagens on
 Dado esse material inicial, o objetivo desse trabalho consistiu em fazer o programa em C++ **QRCode.cpp** que lê uma das imagens com QR-code e gera uma outra imagem que localiza as três marcas quadradas que permitem localizar cada QR-code.
 
 Nesse programa foi utilizada a biblioteca cekeikon.h para que fosse possível utilizar funções do Cekeikon e do OpenCV. 	Para fazer download dessa biblioteca é necessário acessar: http://www.lps.usp.br/hae/software/cekeikon5.html
+
 
 ## Operação
 
@@ -29,6 +31,7 @@ Para facilitar a visualização, os 3 valores impressos na imagem que auxiliam n
 <p align="center">
   <img src="https://github.com/matheusrmorgado/QRCode/blob/master/images/operation-example.png">
 </p>
+
 
 ## Técnicas utilizadas para resolução do problema
 
@@ -94,11 +97,6 @@ Com as 3 marcas quadradas localizadas, o problema proposto é então solucionado
   <img src="https://github.com/matheusrmorgado/QRCode/blob/master/lo/lo00.png">
 </p>
 
-## Direitos autorais
-
-O trabalho aqui publicado fez uso da biblioteca Cekeikon5 para processamento de imagens e visão computacional.
-
-Mais informações sobre essa biblioteca pode ser encontrado em: http://www.lps.usp.br/~hae/software
 
 ## Referências
 
@@ -106,3 +104,10 @@ Mais informações sobre essa biblioteca pode ser encontrado em: http://www.lps.
 * http://docs.opencv.org/2.4/doc/tutorials/imgproc/histograms/template_matching/template_matching.html#template-matching
 * http://docs.opencv.org/2.4/modules/core/doc/operations_on_arrays.html#minmaxloc
 * http://docs.opencv.org/2.4/modules/imgproc/doc/geometric_transformations.html#resize
+
+
+## Direitos autorais
+
+O trabalho aqui publicado fez uso da biblioteca Cekeikon5 para processamento de imagens e visão computacional.
+
+Mais informações sobre essa biblioteca pode ser encontrado em: http://www.lps.usp.br/~hae/software
