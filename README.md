@@ -94,6 +94,12 @@ Com as 3 marcas quadradas localizadas, o problema proposto é então solucionado
   <img src="https://github.com/matheusrmorgado/QRCode/blob/master/lo/lo00.png">
 </p>
 
+## Direitos autorais
+
+O trabalho aqui publicado fez uso da biblioteca Cekeikon5 para processamento de imagens e visão computacional.
+
+Mais informações sobre essa biblioteca pode ser encontrado em: http://www.lps.usp.br/~hae/software
+
 ## Referências
 
 * http://www.lps.usp.br/hae/apostila/tmatch-simp.pdf
