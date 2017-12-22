@@ -1,12 +1,12 @@
 # Localizador de QRCode
 
-Trabalho desenvolvido na disciplina PSI-3471 - Fundamentos de Sistemas Eletrônicos Inteligentes.
+*Trabalho desenvolvido na disciplina PSI-3471 - Fundamentos de Sistemas Eletrônicos Inteligentes.*
 
 ## Descrição do problema
 
 Para a realização do exercício programa, foram disponibilizadas 16 imagens onde em cada uma aparece um único QR-code. Nessas imagens, os QR-codes aparecem aproximadamente em pé, com pequenas distorções em perspectiva.
 
-Dado esse material inicial, o objetivo desse trabalho consistiu em fazer o programa C++ **QRCode.cpp** que lê uma das imagens com QR-code e gera uma outra imagem que localiza as três marcas quadradas que permitem localizar cada QR-code.
+Dado esse material inicial, o objetivo desse trabalho consistiu em fazer o programa em C++ **QRCode.cpp** que lê uma das imagens com QR-code e gera uma outra imagem que localiza as três marcas quadradas que permitem localizar cada QR-code.
 
 Nesse programa foi utilizada a biblioteca cekeikon.h para que fosse possível utilizar funções do Cekeikon e do OpenCV. 	Para fazer download dessa biblioteca é necessário acessar: http://www.lps.usp.br/hae/software/cekeikon5.html
 
@@ -28,8 +28,9 @@ Com isso garantido, o usuário deve digitar 3 argumentos para a execução corre
 
 Para facilitar a visualização, os 3 valores impressos na imagem que auxiliam na identificação do QR-code (MatchLoc) são também disponibilizados no prompt de comando.
 
-
-![Exemplo de operação](https://github.com/matheusrmorgado/QRCode/blob/master/images/operation-example.png)
+<p align="center">
+  <img src="https://github.com/matheusrmorgado/QRCode/blob/master/images/operation-example.png">
+</p>
 
 ## Técnicas utilizadas para resolução do problema
 
