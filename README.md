@@ -98,16 +98,16 @@ Com as 3 marcas quadradas localizadas, o problema proposto é então solucionado
 </p>
 
 
-## Direitos autorais
-
-O trabalho aqui publicado fez uso da biblioteca Cekeikon5 para processamento de imagens e visão computacional.
-
-Mais informações sobre essa biblioteca pode ser encontrado em: http://www.lps.usp.br/~hae/software
-
-
 ## Referências
 
 * http://www.lps.usp.br/hae/apostila/tmatch-simp.pdf
 * http://docs.opencv.org/2.4/doc/tutorials/imgproc/histograms/template_matching/template_matching.html#template-matching
 * http://docs.opencv.org/2.4/modules/core/doc/operations_on_arrays.html#minmaxloc
 * http://docs.opencv.org/2.4/modules/imgproc/doc/geometric_transformations.html#resize
+
+
+## Direitos autorais
+
+O trabalho aqui publicado fez uso da biblioteca Cekeikon5 para processamento de imagens e visão computacional.
+
+Mais informações sobre essa biblioteca pode ser encontrado em: http://www.lps.usp.br/~hae/software
