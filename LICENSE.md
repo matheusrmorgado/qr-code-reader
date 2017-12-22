@@ -1,4 +1,4 @@
-Direitos autorais do Cekeikon5:
+- Direitos autorais do Cekeikon5
 
 Cekeikon5 pode ser utilizado livremente tanto para fins não-lucrativos (acadêmicos e educacionais) como para fins lucrativos comerciais, desde que:
 
