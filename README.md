@@ -52,7 +52,13 @@ Após a leitura, foi necessário encontrar a dimensão da imagem padrão que mel
 
 Para encontrar a melhor dimensão, essa função redimensiona a imagem padrão, representada pela matriz *templ*, para várias escalas por meio da função do OpenCV *resize*.
 
-Essa imagem redimensionada é então comparada com a imagem original do QR-code, representada pela matriz *image*, por meio da função do OpenCV *matchTemplate*. O resultado dessa comparação é armazenado na matriz *result*, que é analisada com a função do OpenCV *minMaxLoc* para verificar qual o seu maior valor. A localização do ponto que possui esse maior valor, representa o ponto mais claro da matriz *result*.
+Essa imagem redimensionada é então comparada com a imagem original do QR-code, representada pela matriz *image*, por meio da função do OpenCV *matchTemplate*.
+
+<p align="center">
+  <img src="https://github.com/matheusrmorgado/QRCode/blob/master/qr/qr00.jpg">
+</p>
+
+O resultado dessa comparação é armazenado na matriz *result*, que é analisada com a função do OpenCV *minMaxLoc* para verificar qual o seu maior valor. A localização do ponto que possui esse maior valor, representa o ponto mais claro da matriz *result*.
 
 <p align="center">
   <img src="https://github.com/matheusrmorgado/QRCode/blob/master/images/result.png">
@@ -84,6 +90,9 @@ A lógica dessa função é utilizar fila para processar componentes conexos a u
 
 Com as 3 marcas quadradas localizadas, o problema proposto é então solucionado, uma imagem do QR-code com identificação é salva e encerra-se todas as instruções.
 
+<p align="center">
+  <img src="https://github.com/matheusrmorgado/QRCode/blob/master/lo/lo00.png">
+</p>
 
 ## Referências
 
