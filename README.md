@@ -1,7 +1,5 @@
 # Localizador de QRCode
 
-*Trabalho desenvolvido na disciplina PSI-3471 - Fundamentos de Sistemas Eletrônicos Inteligentes.*
-
 ## Descrição do problema
 
 Para a realização do exercício programa, foram disponibilizadas 16 imagens onde em cada uma aparece um único QR-code. Nessas imagens, os QR-codes aparecem aproximadamente em pé, com pequenas distorções em perspectiva.
