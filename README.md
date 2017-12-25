@@ -4,9 +4,9 @@
 
 Para a realização do exercício programa, foram disponibilizadas 16 imagens onde em cada uma aparece um único QR-code. Nessas imagens, os QR-codes aparecem aproximadamente em pé, com pequenas distorções em perspectiva.
 
-Dado esse material inicial, o objetivo desse trabalho consistiu em fazer o programa em C++ **QRCode.cpp** que lê uma das imagens com QR-code e gera uma outra imagem que localiza as três marcas quadradas que permitem localizar cada QR-code.
+Dado esse material inicial, o objetivo desse trabalho consistiu em fazer o programa em C++ **QRCode.cpp** que lê uma das imagens com QR-code e gera uma outra imagem que localiza as três marcas quadradas que permitem localizar cada QR-code. Para ler a descrição completa do problema, acessar o documento [Enunciado.pdf](https://github.com/matheusrmorgado/QRCode/blob/master/Enunciado.pdf).
 
-Nesse programa foi utilizada a biblioteca cekeikon.h para que fosse possível utilizar funções do Cekeikon e do OpenCV. 	Para fazer download dessa biblioteca é necessário acessar: http://www.lps.usp.br/hae/software/cekeikon5.html
+Nesse programa foi utilizada a biblioteca cekeikon.h para que fosse possível aplicar funções do Cekeikon e do OpenCV. Para fazer download dessa biblioteca é necessário acessar: http://www.lps.usp.br/hae/software/cekeikon5.html
 
 ## Operação
 
