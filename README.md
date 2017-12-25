@@ -92,10 +92,13 @@ Com as 3 marcas quadradas localizadas, o problema proposto é então solucionado
 
 ## Referências
 
-* http://www.lps.usp.br/hae/apostila/tmatch-simp.pdf
-* http://docs.opencv.org/2.4/doc/tutorials/imgproc/histograms/template_matching/template_matching.html#template-matching
-* http://docs.opencv.org/2.4/modules/core/doc/operations_on_arrays.html#minmaxloc
-* http://docs.opencv.org/2.4/modules/imgproc/doc/geometric_transformations.html#resize
+* Template Matching Tutorial: http://docs.opencv.org/2.4/doc/tutorials/imgproc/histograms/template_matching/template_matching.html#template-matching
+
+* Finds the global minimum and maximum in an array: http://docs.opencv.org/2.4/modules/core/doc/operations_on_arrays.html#minmaxloc
+
+* Resize an image: http://docs.opencv.org/2.4/modules/imgproc/doc/geometric_transformations.html#resize
+
+* Apostila Template Matching: http://www.lps.usp.br/hae/apostila/tmatch-simp.pdf
 
 ## Direitos autorais
 
