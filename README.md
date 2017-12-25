@@ -13,7 +13,7 @@ Para ler a descrição completa do problema, acesse: [Enunciado.pdf](https://git
 Para executar o programa, o usuário deve acessar pelo prompt de comando a pasta em que está localizado o arquivo **QRCode.cpp**. Caso ainda não tenha compilado, o usuário deve compilar digitando no prompt de comando o seguinte comando: 
 
 ```
-compila QRCode -cek
+compila QRCode.cpp -cek
 ```
 
 Agora compilado, o usuário deve ter na mesma pasta que está localizado o arquivo **QRCode.cpp**, o arquivo **padrao.png** que será utilizado no programa. 
