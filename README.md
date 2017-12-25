@@ -26,7 +26,7 @@ Com isso garantido, o usuário deve digitar 3 argumentos para a execução corre
 
 Para facilitar a visualização, os 3 valores impressos na imagem que auxiliam na identificação do QR-code (MatchLoc) são também disponibilizados no prompt de comando.
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/matheusrmorgado/QRCode/blob/master/images/operation.png">
 </p>
 
