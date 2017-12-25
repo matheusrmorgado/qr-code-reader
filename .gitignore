@@ -31,6 +31,15 @@
 *.out
 *.app
 
+### OpenCV ###
+#OpenCV for Mac and Linux
+#build and release folders
+*/CMakeFiles
+*/CMakeCache.txt
+*/Makefile
+*/cmake_install.cmake
+.DS_Store
+
 ### SublimeText ###
 # cache files for sublime text
 *.tmlanguage.cache
