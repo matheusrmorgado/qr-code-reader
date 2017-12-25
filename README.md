@@ -13,7 +13,7 @@ Nesse programa foi utilizada a biblioteca cekeikon.h para que fosse possível ap
 Para executar o programa, o usuário deve acessar pelo prompt de comando a pasta em que está localizado o arquivo **QRCode.cpp**. Caso ainda não tenha compilado, o usuário deve compilar digitando no prompt de comando o seguinte comando: 
 
 ```
-compila QRCode -cek.
+compila QRCode -cek
 ```
 
 Agora compilado, o usuário deve ter na mesma pasta que está localizado o arquivo **QRCode.cpp**, o arquivo **padrao.png** que será utilizado no programa. 
@@ -33,12 +33,6 @@ Para facilitar a visualização, os 3 valores impressos na imagem que auxiliam n
 ## Técnicas utilizadas para resolução do problema
 
 Para resolver o problema proposto, foram criadas 3 funções a fim de organizar o código e deixar a lógica de programação mais fácil de ser compreendida. A seguir, essas funções serão explicadas com mais detalhes, seguindo a ordem que são chamadas.
-
-O início das instruções se dá na função:
-
-```c++
- int main( int argc, char* argv[] ). 
-```
 
 Os primeiros comandos se referem à leitura de duas imagens, uma imagem que possui um QR-code e uma imagem padrão que será utilizada para localizar marcas quadradas.
 
