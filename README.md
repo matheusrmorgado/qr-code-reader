@@ -1,4 +1,4 @@
-# Localizador de QRCode
+# Localizador de QR-Code
 
 ## Descrição do problema
 
@@ -10,7 +10,7 @@ Para ler a descrição completa do problema, acesse: [Enunciado.pdf](https://git
 
 ## Operação
 
-Para executar o programa, o usuário deve acessar pelo prompt de comando a pasta em que está localizado o arquivo **QRCode.cpp**. Caso ainda não tenha compilado, o usuário deve compilar digitando no prompt de comando o seguinte comando: 
+Para executar o programa, o usuário deve acessar pelo prompt de comando a pasta em que está localizado o arquivo **QRCode.cpp**. Caso ainda não tenha compilado, o usuário deve compilar digitando no prompt o seguinte comando: 
 
 ```
 compila QRCode.cpp -cek
