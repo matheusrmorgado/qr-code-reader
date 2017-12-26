@@ -4,7 +4,7 @@
 
 Para a realização do exercício programa, foram disponibilizadas 16 imagens onde em cada uma aparece um único QR-code. Nessas imagens, os QR-codes aparecem aproximadamente em pé, com pequenas distorções em perspectiva.
 
-Dado esse material inicial, o objetivo desse trabalho consistiu em fazer o programa **QRCode.cpp** que lê uma das imagens com QR-code e gera uma outra imagem que localiza as três marcas quadradas que permitem localizar cada QR-code. 
+Dado esse material inicial, o objetivo desse trabalho consiste em fazer um programa que lê uma imagem com QR-code e gera uma outra imagem que identifica a localização das três marcas quadradas localizadoras do QR-code. 
 
 Para ler a descrição completa do problema, acesse: [Enunciado.pdf](https://github.com/matheusrmorgado/QRCode/blob/master/Enunciado.pdf).
 
