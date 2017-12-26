@@ -2,7 +2,7 @@
 
 ## Descrição do problema
 
-Para a realização do exercício programa, foram disponibilizadas 16 imagens onde em cada uma aparece um único QR-code. Nessas imagens, os QR-codes aparecem aproximadamente em pé, com pequenas distorções em perspectiva.
+Para a realização do exercício programa foram disponibilizadas 16 imagens, sendo que em cada uma aparece um único QR-code. Nessas imagens, os QR-codes aparecem aproximadamente em pé, com pequenas distorções em perspectiva.
 
 Dado esse material inicial, o objetivo desse trabalho consiste em fazer um programa que lê uma imagem com QR-code e gera uma outra imagem que identifica a localização das três marcas quadradas localizadoras do QR-code. 
 
