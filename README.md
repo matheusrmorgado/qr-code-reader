@@ -34,7 +34,7 @@ Para facilitar a visualização, os 3 valores impressos na imagem que auxiliam n
 
 Nesse programa foi utilizada a biblioteca cekeikon.h para que fosse possível aplicar funções do Cekeikon e do OpenCV. Para fazer download dessa biblioteca é necessário acessar: http://www.lps.usp.br/hae/software/cekeikon5.html.
 
-Para resolver o problema proposto, foram criadas 3 funções a fim de organizar o código e deixar a lógica de programação mais fácil de ser compreendida. A seguir, essas funções serão explicadas com mais detalhes, seguindo a ordem que são chamadas.
+Para resolver o problema proposto, foram criadas 3 funções a fim de organizar o código e deixar a lógica de programação mais fácil de ser compreendida. A seguir, essas funções serão explicadas com mais detalhes.
 
 Os primeiros comandos se referem à leitura de duas imagens, uma imagem que possui um QR-code e uma imagem padrão que será utilizada para localizar marcas quadradas.
 
